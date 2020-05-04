@@ -5,7 +5,7 @@
 Clone repository, then execute:
 
 ```
-php index.js
+php index.php
 ```
 
 I spent about one hour completing the assessment. The actual coding of the
